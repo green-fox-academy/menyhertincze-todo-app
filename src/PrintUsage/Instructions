@@ -1,0 +1,9 @@
+Hello! This is my very first app: Instructions are the following:
+My command line app usage: [OPTION] [WORD]
+
+     Options:
+          -l   Lists all the tasks
+          -a   Adds a new task
+          -r   Removes an task
+          -c   Completes an task
+
